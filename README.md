@@ -1,4 +1,7 @@
-![logo](https://github.com/siddharth-mohril/siddharth-mohril/blob/main/Pixel%20Study%20GIF%20-%20Pixel%20Study%20-%20Discover%20%26%20Share%20GIFs.gif)
+<div align="center">
+  <img src="https://github.com/siddharth-mohril/siddharth-mohril/blob/main/Pixel%20Study%20GIF%20-%20Pixel%20Study%20-%20Discover%20%26%20Share%20GIFs.gif" alt="logo" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Siddharth Mohril</h1>
 <h3 align="center">A Computer Science and Engineering Sophomore from India</h3>
 
